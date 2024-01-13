@@ -259,6 +259,7 @@
             this.txtFoto.Name = "txtFoto";
             this.txtFoto.Size = new System.Drawing.Size(242, 26);
             this.txtFoto.TabIndex = 23;
+            this.txtFoto.Visible = false;
             // 
             // Form1
             // 
